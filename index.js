@@ -6,3 +6,6 @@ console.log(nome);
 
 const primeiroNumero = 5;
 const segundoNumero = 3;
+
+const conta = primeiroNumero * segundoNumero;
+console.log(conta)
