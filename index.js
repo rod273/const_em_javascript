@@ -6,7 +6,7 @@ console.log(nome);
 
 const primeiroNumero = 5;
 const segundoNumero = 3;
-
 const conta = primeiroNumero * segundoNumero;
-const resultadoDuplicado = conta + 10;
-console.log(resultadoDuplicado);
+const resultadoDuplicado = conta * 10;
+let resultadoTriplicado = resultadoDuplicado * 3
+console.log(resultadoTriplicado);
