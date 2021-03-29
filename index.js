@@ -8,4 +8,5 @@ const primeiroNumero = 5;
 const segundoNumero = 3;
 
 const conta = primeiroNumero * segundoNumero;
-console.log(conta)
+const resultadoDuplicado = conta + 10;
+console.log(resultadoDuplicado);
